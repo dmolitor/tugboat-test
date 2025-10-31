@@ -1,0 +1,6 @@
+.Rprofile
+renv/
+tugboat-config.R
+Dockerfile
+.dockerignore
+**/.DS_Store
